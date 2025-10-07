@@ -11,7 +11,7 @@ My Portfolio: https://giotria227.github.io/catapang-portfolio/
 * Visual Studio Code
 * Github
 # Contact Me
-* Gmai: giotria227@gmail.com
+* Gmail: giotria227@gmail.com
 * Github: https://github.com/Giotria227/catapang-portfolio/
 # Reflection
   While building my student portfolio website, I encountered several challenges that tested both my technical knowledge and patience. One of the main challenges was organizing the HTML structure while ensuring the layout remained responsive across different screen sizes. At first, the mobile navigation menu didn’t work properly—it either wouldn't open or would cover content awkwardly. I resolved this by incorporating a simple JavaScript toggle function and adjusting the CSS to better handle mobile breakpoints. Another issue was managing the modals for the activity cards. Initially, the modals wouldn’t open or close correctly because the JavaScript wasn’t correctly linked or targeting the elements. I solved this by carefully assigning `data-modal` attributes and ensuring each modal had the appropriate ID and close button functionality.
